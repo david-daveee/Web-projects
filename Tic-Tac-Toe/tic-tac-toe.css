@@ -45,6 +45,7 @@ main{
     border-radius: 6px;
     width: 120px;
     visibility: hidden;
+    cursor: pointer;
 }
 
 .tile{
